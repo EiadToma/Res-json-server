@@ -225,6 +225,14 @@
       "comment": "dsasaa",
       "date": "2022-10-02T11:22:44.180Z",
       "id": 22
+    },
+    {
+      "dishId": 0,
+      "rating": "5",
+      "author": "eiad toma",
+      "comment": "lets goo babay its for the win",
+      "date": "2023-01-25T18:29:14.184Z",
+      "id": 23
     }
   ],
   "promotions": [
