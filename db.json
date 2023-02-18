@@ -2,7 +2,7 @@
   "dishes": [
     {
       "id": 0,
-      "name": "Uthappizza",
+      "name": "pizza",
       "image": "images/pizza.jpg",
       "category": "mains",
       "label": "Hot",
@@ -12,8 +12,8 @@
     },
     {
       "id": 1,
-      "name": "Zucchipakoda",
-      "image": "images/zucchipakoda.png",
+      "name": "fries",
+      "image": "images/fries.jpeg",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
@@ -32,7 +32,7 @@
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
+      "name": "Cake",
       "image": "images/cake.jpg",
       "category": "dessert",
       "label": "",
